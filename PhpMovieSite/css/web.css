@@ -1,0 +1,184 @@
+
+p {
+	color: C2D0E5;
+}
+
+a {
+	color: 998B6E;
+}
+
+body {
+	color: C2D0E5;
+	background-color: white;
+}
+
+body_table {
+	color: 027393;
+	background-color: white;
+}
+
+#header{
+	padding: 15px;
+	margin-left:13.50%;
+	margin-right:13.50%;;
+	background-color: 363A40;
+	border-style: groove;
+	border-width: 5px;
+	border-color:372008;
+}
+
+#banner{
+	background-color:white;
+	border-width: 15px;
+	margin-left:13.50%;
+	margin-right:13.50%;;
+}
+
+#body_border{
+	padding: 15px;
+	margin-left:13.50%;
+	margin-right:13.50%;
+	background-color: 363A40;
+	border-style: groove;
+	border-width: 5px;
+	border-color:372008;
+}
+
+#footer{
+
+	background-color:white;
+	color:white;
+	border-width: 15px;
+	margin-left:13.50%;
+	margin-right:13.50%;
+	width: 800px;
+}
+
+#navagation_bar{
+
+	margin-left:14%;
+	margin-right:14%;
+	background-color: 363A40;
+	border-style: groove;
+	border-width: 5px;
+	border-color:372008;
+}
+
+#banner_image{
+	margin-top:50px;
+	height:65px;
+	image-height:50px;
+	image-width:900px;
+	margin-left:13.50%;
+	margin-right:13.50%;;
+	background-color: 363A40;
+	border-style: groove;
+	border-width: 5px;
+	border-color:372008;	
+}
+
+#banner_image img{
+	height:100%;
+	width:100%;
+	#background-repeat:repeat-y;
+}
+
+#headerwrapper{
+	width:100%;
+	height:100%;
+}
+
+#frame{
+	padding: 15px;
+	margin-left:14%;
+	margin-right:14%;;;
+	background-color: 363A40;
+	border-style: groove;
+	border-width: 5px;
+	border-color:372008;
+}
+
+#text_container {
+	padding-top:-15px;
+	width:100%;
+	height:100%;
+	color:orange;
+	text-align:center;
+}
+
+#h1 {
+   	position:absolute;
+  	top: 5%;
+   	left: 15%;
+   	width: 100%;
+	text-align:left;
+	font-size:40px;
+	color:white;
+}
+
+#title {
+    color:C2D0E5;
+    font:bold 120%;
+
+}
+
+
+h2 span {
+   	color: white;
+  	font: bold 170% Helvetica, Sans-Serif;
+  	letter-spacing: -1px;
+    	background: rgba(0, 0, 0, 0.7);
+        text-align: left;
+}
+
+#footer_return{
+	padding: 5px;
+	margin-left:13.50%;
+	margin-right:13.50%;;
+	background-color: 363A40;
+	border-style: groove;
+	border-width: 5px;
+	border-color:372008;
+}
+
+label
+{
+width: 4em;
+float: left;
+text-align: right;
+margin-right: 0.5em;
+display: block
+}
+
+#leftcolumn
+{
+    width: 150px;
+    display:inline;
+    -border: 1px solid white;
+}
+
+
+#rightcolumn
+{
+    width: 300px;
+    display:inline;
+    
+}
+
+
+#clear { clear: both;}
+
+   th { background-color: #999;}
+ 
+   .odd_row { background-color: #363A40; }
+   .even_row { background-color:#363A40; }
+
+admin_table
+{
+   width:100%;
+}
+
+table_font
+{
+    color: red;
+}
